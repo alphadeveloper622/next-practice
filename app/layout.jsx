@@ -1,5 +1,6 @@
 import Link from "next/link"
 import Counter from '../components/Counter'
+import "./global.css"
 
 export default function RootLayout({ children }) {
     return (
